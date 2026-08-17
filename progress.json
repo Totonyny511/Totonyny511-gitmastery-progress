@@ -1,0 +1,31 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786520897.247838,
+    "completed_at": 1786520900.282828,
+    "comments": [
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786519828.445422,
+    "completed_at": 1786519831.592574,
+    "comments": [
+      "Did not add alice.txt",
+      "Did not add joe.txt",
+      "Did not add bob.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786519908.53317,
+    "completed_at": 1786519911.306162,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  }
+]
